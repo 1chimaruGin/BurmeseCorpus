@@ -1,6 +1,17 @@
 # BurmeseCorpus
 Burmese Language Corpus
 
+## Directory structure
+
+Each file contain atleast 150,000 sentences.
+
+```bash
+corpus
+    |--- bm_corpus_1.txt
+    |--- bm_corpus_2.txt
+    ...
+```
+
 ## Data Source
 
 CC100 -> burmese -> [https://huggingface.co/datasets/cc100](https://huggingface.co/datasets/cc100)
